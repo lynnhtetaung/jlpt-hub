@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jlpt-hub/static/css/main.887689d7.css",
-    "main.js": "/jlpt-hub/static/js/main.69814dd3.js",
+    "main.js": "/jlpt-hub/static/js/main.9c05540f.js",
     "index.html": "/jlpt-hub/index.html",
     "main.887689d7.css.map": "/jlpt-hub/static/css/main.887689d7.css.map",
-    "main.69814dd3.js.map": "/jlpt-hub/static/js/main.69814dd3.js.map"
+    "main.9c05540f.js.map": "/jlpt-hub/static/js/main.9c05540f.js.map"
   },
   "entrypoints": [
     "static/css/main.887689d7.css",
-    "static/js/main.69814dd3.js"
+    "static/js/main.9c05540f.js"
   ]
 }
