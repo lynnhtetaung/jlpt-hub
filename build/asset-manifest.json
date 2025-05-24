@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jlpt-old-questions/static/css/main.887689d7.css",
+    "main.js": "/jlpt-old-questions/static/js/main.0b1d2fbc.js",
+    "index.html": "/jlpt-old-questions/index.html",
+    "main.887689d7.css.map": "/jlpt-old-questions/static/css/main.887689d7.css.map",
+    "main.0b1d2fbc.js.map": "/jlpt-old-questions/static/js/main.0b1d2fbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887689d7.css",
+    "static/js/main.0b1d2fbc.js"
+  ]
+}
