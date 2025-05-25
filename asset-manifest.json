@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/lynn-hub/static/css/main.887689d7.css",
-    "main.js": "/lynn-hub/static/js/main.7815345b.js",
+    "main.js": "/lynn-hub/static/js/main.7a85d5f6.js",
     "index.html": "/lynn-hub/index.html",
-    "main.887689d7.css.map": "/lynn-hub/static/css/main.887689d7.css.map",
-    "main.7815345b.js.map": "/lynn-hub/static/js/main.7815345b.js.map"
+    "main.7a85d5f6.js.map": "/lynn-hub/static/js/main.7a85d5f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.887689d7.css",
-    "static/js/main.7815345b.js"
+    "static/js/main.7a85d5f6.js"
   ]
 }
