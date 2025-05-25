@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lynn-hub/static/css/main.887689d7.css",
+    "main.js": "/lynn-hub/static/js/main.7815345b.js",
+    "index.html": "/lynn-hub/index.html",
+    "main.887689d7.css.map": "/lynn-hub/static/css/main.887689d7.css.map",
+    "main.7815345b.js.map": "/lynn-hub/static/js/main.7815345b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887689d7.css",
+    "static/js/main.7815345b.js"
+  ]
+}
